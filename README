@@ -1,8 +1,12 @@
+================
+    Escapend
+================
 
 ### About Escapend:
 Escapend is a game where the goal of the game is to escape.
 It is a HTML5 canvas game that uses JavaScript.
 Escapend is still in beta - some of its features are going to be changed frequently.
+
 
 ### Source code:
 All the stuff needed for Escapend to run are in the "source" folder.
